@@ -11,3 +11,5 @@ document.write("n=" + n + "<br>");
 document.write("m=" + m + "<br>");
 document.write("n==m? -->");
 document.write(n == m);
+document.write("<br>");
+document.write("n===m?-->" + (n === m));
