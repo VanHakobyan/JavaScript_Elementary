@@ -1,6 +1,5 @@
 // JavaScript source code
 alert("First Web");
-document.writeln("this first site html and java script");
 prompt("yes or no", "this");
 
 //calculator
@@ -8,8 +7,8 @@ prompt("yes or no", "this");
 var x = prompt("input x", "input");
 var y = prompt("input y", "input");
 var res = x + y;
-document.writeln(res + "  string");
-"</br>"
+document.writeln(res + "  string" + "</hr>");
+//"<hr/>"
 var intX = parseInt(x);
 var intY = parseInt(y);
 res = intX + intY;

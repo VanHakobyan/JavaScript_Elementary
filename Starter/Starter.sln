@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Starter", "Starter", "{AA63BD6B-AD60-414F-97FC-DB22CFD38B93}"
 	ProjectSection(SolutionItems) = preProject
+		Operators test.html = Operators test.html
+		Operators.js = Operators.js
 		Prompt.html = Prompt.html
 		Prompt.js = Prompt.js
 	EndProjectSection
