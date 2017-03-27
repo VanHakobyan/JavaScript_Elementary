@@ -1,0 +1,18 @@
+// JavaScript source code
+<html>
+    <head>
+        <title>Интеграция JavaScript</title>
+
+        <!--Тег script-->
+    <script type="text/javascript">
+
+            alert("Hello world!");
+
+        document.write("Hello world again!");
+
+    </script>
+        <!--Завершение тега script-->
+</head>
+    <body>
+    </body>
+</html>
