@@ -6,13 +6,17 @@
     <title>Logical structures</title>
     <script type="text/javascript">
         var x = "20";
-        if (x == 20)
+        var b = true;
+        if (x == 20 && x!=0 && x>100)
         {
-            alert(x);
+            document.write(x);
         }
-        else
+        else if(b)
         {
-            alert(x + 1);
+            document.write("true");
+        }
+        else {
+            document.write(true)
         }
     </script>
 </head>
