@@ -9,6 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		ifElse.js = ifElse.js
 		SwitchCase.js = SwitchCase.js
 		Ternar.js = Ternar.js
+		Ternar2.js = Ternar2.js
 		View.html = View.html
 	EndProjectSection
 EndProject
