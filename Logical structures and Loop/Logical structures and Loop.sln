@@ -13,6 +13,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logical", "Logical", "{3E86
 		View.html = View.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loop", "Loop", "{EC14EB20-0CBC-4C9C-8382-44D64239548B}"
+	ProjectSection(SolutionItems) = preProject
+		Loop.html = Loop.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
