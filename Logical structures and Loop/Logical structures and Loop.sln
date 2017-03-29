@@ -18,8 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Loop", "Loop", "{EC14EB20-0
 		break and continue.js = break and continue.js
 		doWhile.js = doWhile.js
 		factorial.js = factorial.js
+		for.js = for.js
 		Loop.html = Loop.html
-		..\..\..\..\Pictures\pic.jpg = ..\..\..\..\Pictures\pic.jpg
 		While.js = While.js
 	EndProjectSection
 EndProject

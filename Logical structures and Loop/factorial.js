@@ -1,4 +1,4 @@
-var number = prompt("input number");
+var number = 4; //prompt("input number");
 var current = number;
 var factorial = 1;
 while (current >= 0) {

@@ -3,4 +3,4 @@ document.write("do while"+"<br>");
 do {
     document.write(count + ",");
     count++;
-} while (count<10);
+} while (count < 10);
