@@ -7,3 +7,11 @@ document.write("<hr/>");
 var array3 = [1, "two", true];
 document.write(array3);
 document.write("<hr/>");
+var array4 = Array(1, 2, 3, 4, 5, 6, 7, 8, 9, 0);
+document.write(array4);
+document.write("<hr/>");
+var array5 = Array(20);//empty
+document.write(array5);
+document.write("<hr/>");
+
+
