@@ -12,6 +12,6 @@ document.write(array4);
 document.write("<hr/>");
 var array5 = Array(20);//empty
 document.write(array5);
-document.write("<hr/>");
+
 
 
