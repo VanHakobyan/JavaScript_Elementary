@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array Methods", "Array Meth
 		Concat.js = Concat.js
 		join.js = join.js
 		Methods.html = Methods.html
+		Pop and Push.js = Pop and Push.js
+		Shift and Unshift.js = Shift and Unshift.js
 		Slice.js = Slice.js
 	EndProjectSection
 EndProject
