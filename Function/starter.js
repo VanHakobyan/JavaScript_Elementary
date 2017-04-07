@@ -5,5 +5,6 @@ function before(a) {
     }
     return sum;
 };
-var x = prompt("input number")
-document.write("sum before(" + x +")=" + before(x));
+var x = 6;// prompt("input number")
+document.write("sum before(" + x + ")=" + before(x));
+
