@@ -6,14 +6,26 @@
     <title></title>
 </head>
 <body>
-    <script type="text/javascript" >
-        // 2, 5, 3, 6, 9 
+    <script type="text/javascript">
+        // 2, 5, 3, 6, 9
         var a = prompt("number");
-        function myfunction(x)
-        {
+        function myfunction(x) {
             return x % 90 === 0 ? true : false;
         }
-        document.write("/? 2, 5, 3, 6, 9 " + myfunction(a));
+        document.write("/? 2, 5, 3, 6, 9 " + myfunction(a)+"<hr/>");
+        function parz(y) {
+            if (y === 2 || y === 1) {
+                return true;
+            }
+
+            for (var i = 2; i < y; i++) {
+                if (y % i === 0)
+                    return false;
+
+            }
+            return true;
+        }
+        document.write("parz? " + parz(a));
     </script>
 
 </body>
