@@ -7,6 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleFunction", "SimpleFun
 	ProjectSection(SolutionItems) = preProject
 		Arguments.js = Arguments.js
 		GlobalLocal.js = GlobalLocal.js
+		HomeWork.html = HomeWork.html
 		optional.js = optional.js
 		recursion.html = recursion.html
 		Simple.html = Simple.html
