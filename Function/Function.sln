@@ -1,12 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26403.0
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimpleFunction", "SimpleFunction", "{4B0B132D-EBC0-42A3-A04B-3FE6A8265833}"
 	ProjectSection(SolutionItems) = preProject
 		Arguments.js = Arguments.js
+		callBack.js = callBack.js
 		optional.js = optional.js
+		Recursion.js = Recursion.js
 		Simple.html = Simple.html
 		starter.js = starter.js
 	EndProjectSection
