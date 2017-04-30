@@ -4,9 +4,10 @@
 <br/>
 
 ### :page_facing_up: I advise you to learn from the following sources codes :page_facing_up:
-* <a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Starter">Elementary</a>
-* <a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Logical%20structures%20and%20Loop">Logical structures and Loop</a>
-* <a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Array">Array</a>
+* :one:<a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Starter">Elementary</a>
+* :two:<a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Logical%20structures%20and%20Loop">Logical structures and Loop</a>
+* :three:<a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Array">Array</a>
+* :four:<a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Function">Function</a>
 
 ### :page_facing_up: Description language :page_facing_up:
 
