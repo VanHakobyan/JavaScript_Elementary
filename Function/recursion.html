@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script type="text/javascript">
+        function fib(x)
+        {
+            if (x === 1 || x === 2)
+            {
+                return 1;
+            }
+            
+            return fib(x - 1) + fib(x - 2);
+        }
+        var a = fib(3);
+        document.write(a);
+    </script>
+
+</body>
+</html>

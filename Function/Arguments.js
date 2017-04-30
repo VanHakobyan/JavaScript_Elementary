@@ -11,4 +11,4 @@ function Func(a, b, c)
     return maxFunc;
 }
 var res = Func(12, 1, 5, 4, 5, 8, 151, 678);
-document.write(res);//678
+document.write(res); //678

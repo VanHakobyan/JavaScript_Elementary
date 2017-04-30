@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <script type="text/javascript">
+        // 2, 5, 3, 6, 9
+        var a = prompt("number");
+        function myfunction(x) {
+            return x % 90 === 0 ? true : false;
+        }
+        document.write("/? 2, 5, 3, 6, 9 " + myfunction(a)+"<hr/>");
+        function parz(y) {
+            if (y === 2 || y === 1) {
+                return true;
+            }
+
+            for (var i = 2; i < y; i++) {
+                if (y % i === 0)
+                    return false;
+
+            }
+            return true;
+        }
+        document.write("parz? " + parz(a));
+    </script>
+
+</body>
+</html>
