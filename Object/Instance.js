@@ -8,5 +8,6 @@ var instance =
         eat: function EAT() { document.write("Eating") }
 
     };
-document.write(instance);
-document.write(instance.GO() + instance.Age + name);
+document.write(instance.Name + " " + instance.Type + " " + instance.go);
+//instance.EAT();
+document.write(instance.Age);
