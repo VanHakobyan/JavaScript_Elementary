@@ -9,5 +9,5 @@ var instance =
 
     };
 document.write(instance.Name + " " + instance.Type + " " + instance.go);
-//instance.EAT();
+instance.eat();
 document.write(instance.Age);
