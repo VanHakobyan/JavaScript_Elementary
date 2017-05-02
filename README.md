@@ -8,6 +8,7 @@
 * :two:<a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Logical%20structures%20and%20Loop">Logical structures and Loop</a>
 * :three:<a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Array">Array</a>
 * :four:<a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Function">Function</a>
+* :five:<a href="https://github.com/VanHakobyan/JavaScript_Projects/tree/master/Object">Object</a>
 
 ### :page_facing_up: Description language :page_facing_up:
 
