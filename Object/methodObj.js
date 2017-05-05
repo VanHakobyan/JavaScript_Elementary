@@ -3,7 +3,7 @@ person.Name = "Van";
 person.SayName = function () {
     document.write("<p>My neme is " + this.Name);
 }
-persom.Say = function () {
+person.Say = function () {
     document.write("<p><b>Hello Worlds</b>");
 };
 person.Eating = function () {
