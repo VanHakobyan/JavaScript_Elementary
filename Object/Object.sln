@@ -8,6 +8,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Object", "Object", "{B98685
 		Ctor.js = Ctor.js
 		Instance.js = Instance.js
 		method.js = method.js
+		methodObj.js = methodObj.js
 		Nested type.js = Nested type.js
 		Object.html = Object.html
 	EndProjectSection
