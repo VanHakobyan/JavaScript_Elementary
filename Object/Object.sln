@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Object", "Object", "{B9868554-752D-46F5-A3FE-C5275200CC18}"
 	ProjectSection(SolutionItems) = preProject
 		Ctor.js = Ctor.js
+		Delete.js = Delete.js
 		Instance.js = Instance.js
 		method.js = method.js
 		methodObj.js = methodObj.js

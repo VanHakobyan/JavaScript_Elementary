@@ -13,6 +13,15 @@ person.SayName();
 person.Say();
 person.Eating();
 
-for (var element in person) {
-    document.write(person[element]);
+//for (var element in person) {
+//    document.write(person[element]);
+//}
+document.write("<hr/>");
+
+if ("Name" in person) {
+    delete person.Name;
 }
+else {
+    document.write("No");
+}
+person.SayName();
