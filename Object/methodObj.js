@@ -13,3 +13,6 @@ person.SayName();
 person.Say();
 person.Eating();
 
+for (var element in person) {
+    document.write(person[element]);
+}
