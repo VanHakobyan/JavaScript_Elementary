@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{C290A783-D871-4849-A477-D5D7B92C4888}"
 	ProjectSection(SolutionItems) = preProject
@@ -20,10 +20,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array Methods", "Array Meth
 		Pop and Push.js = Pop and Push.js
 		Shift and Unshift.js = Shift and Unshift.js
 		Slice.js = Slice.js
+		UlJoinhtml.html = UlJoinhtml.html
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6254269B-215D-485F-8456-87FE5B5DDB1F}
 	EndGlobalSection
 EndGlobal
