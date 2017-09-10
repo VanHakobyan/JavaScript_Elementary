@@ -24,5 +24,5 @@ for (var i = 0; i < matrix.length; i++)
     {
         document.write(matrix[i][j]+" ");
     }
-    document.write("<br/>");
+    document.write("<br>");
 }
